@@ -4,6 +4,7 @@ public class Sesson2HW {
 
         System.out.println("Hello world!");
         System.out.println("Another hello!");
+        static String firstname = "Sebi";
 
     }
 
