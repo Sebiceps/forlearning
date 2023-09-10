@@ -34,7 +34,7 @@ public class HomeWork {
         String email = scanner.nextLine();
         System.out.println("Please enter a password!");
         String password = scanner.nextLine();
-//        System.out.println("Thank you, soon you will recive a email for your account confirmation. Have a great day!");
+        System.out.println("Thank you, soon you will recive an email for your account confirmation. Have a great day!");
 
 
     }
