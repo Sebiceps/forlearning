@@ -7,19 +7,19 @@ import static session3.practice.IncrementAndDecrementOperators.printIncrementedN
 public class HomeWorkS3 {
 
     //1. Write a Java program to take two numbers as input and display the result of addition, subtraction, multiplication, division, and modulus.
-    //public static void main(String[] args) {
+    public static void main(String[] args) {
 
-    //int number1 = 30;
-    //int number2 = 11;
+        int number1 = 30;
+        int number2 = 11;
 
-    //System.out.println("Aritmetic operations with int");
-    //System.out.println(number1 + number2);
-    //System.out.println(number1 - number2);
-    //System.out.println(number1 * number2);
-    //System.out.println(number1 / number2);
-    // System.out.println(number1 % number2);
+        System.out.println("Aritmetic operations with int");
+        System.out.println(number1 + number2);
+        System.out.println(number1 - number2);
+        System.out.println(number1 * number2);
+        System.out.println(number1 / number2);
+        System.out.println(number1 % number2);
 
-    //2. Create a Java program where you increment and decrement the same variable. Display the value of the variable after each operation.
+        //2. Create a Java program where you increment and decrement the same variable. Display the value of the variable after each operation.
 
 //INCREMENT NUMBERS
 //    public static int firstNumber = 6;
@@ -62,7 +62,7 @@ public class HomeWorkS3 {
 //        System.out.println(result2);// ->40
 //
 //    }
-    //3. Write a program to check if a number is positive or negative using logical complement operator.
+        //3. Write a program to check if a number is positive or negative using logical complement operator.
 
 //    public static void main(String[] args) {
 //        byte number = 18;
@@ -127,7 +127,7 @@ public class HomeWorkS3 {
 //
 //    }
 
-    // 5. Create a Java program that demonstrates the use of each compound assignment operator with integers.
+        // 5. Create a Java program that demonstrates the use of each compound assignment operator with integers.
 //    public static void main(String[] args) {
 //        int x = 46;
 //        int y = 8;
@@ -142,7 +142,7 @@ public class HomeWorkS3 {
 //
 //    }
 
-    //6. Write a Java program that takes two numbers from the user and uses relational operators to display whether the first number is greater than, less than, or equal to the second number.
+        //6. Write a Java program that takes two numbers from the user and uses relational operators to display whether the first number is greater than, less than, or equal to the second number.
 
 //    public static void main(String[] args) {
 //        int x = 44;
@@ -155,7 +155,7 @@ public class HomeWorkS3 {
 //        System.out.println(x != y);
 //    }
 
-    //7. Write a program where you perform operations between an integer and a double. Display the result.
+        //7. Write a program where you perform operations between an integer and a double. Display the result.
 
 //    public static void main(String[] args) {
 //        int x = 34;
@@ -169,7 +169,7 @@ public class HomeWorkS3 {
 //
 //    }
 
-    //8.Create a program that takes two byte values, adds them together, and stores the result in a byte variable.
+        //8.Create a program that takes two byte values, adds them together, and stores the result in a byte variable.
 
 //    public static void main(String[] args) {
 //
@@ -181,6 +181,6 @@ public class HomeWorkS3 {
 //    }
 
 
-}
+    }
 
 
