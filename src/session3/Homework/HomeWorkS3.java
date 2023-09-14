@@ -4,20 +4,20 @@ import com.sun.jdi.PathSearchingVirtualMachine;
 
 import static session3.practice.IncrementAndDecrementOperators.printIncrementedNumbers;
 
-public class HomeWorkS3 {
+//public class HomeWorkS3 {
 
     //1. Write a Java program to take two numbers as input and display the result of addition, subtraction, multiplication, division, and modulus.
-    public static void main(String[] args) {
-
-        int number1 = 30;
-        int number2 = 11;
-
-        System.out.println("Aritmetic operations with int");
-        System.out.println(number1 + number2);
-        System.out.println(number1 - number2);
-        System.out.println(number1 * number2);
-        System.out.println(number1 / number2);
-        System.out.println(number1 % number2);
+//    public static void main(String[] args) {
+//
+//        int number1 = 30;
+//        int number2 = 11;
+//
+//        System.out.println("Aritmetic operations with int");
+//        System.out.println(number1 + number2);
+//        System.out.println(number1 - number2);
+//        System.out.println(number1 * number2);
+//        System.out.println(number1 / number2);
+//        System.out.println(number1 % number2);
 
         //2. Create a Java program where you increment and decrement the same variable. Display the value of the variable after each operation.
 
@@ -181,6 +181,6 @@ public class HomeWorkS3 {
 //    }
 
 
-    }
+   // }
 
 
